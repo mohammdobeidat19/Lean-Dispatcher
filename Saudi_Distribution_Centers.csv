@@ -1,4 +1,4 @@
-ID,Name,lat,lon,Supply
+ID,name,lat,lon,supply
 S01,Riyadh_DC,24.7136,46.6753,40000
 S02,Jeddah_DC,21.4858,39.1925,30000
 S03,Dammam_DC,26.4207,50.0888,20000

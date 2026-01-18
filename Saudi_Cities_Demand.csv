@@ -1,4 +1,4 @@
-ID,Name,lat,lon,Demand
+ID,name,lat,lon,demand
 C01,Riyadh,24.7136,46.6753,9000
 C02,Jeddah,21.4858,39.1925,10000
 C03,Makkah,21.3891,39.8579,10000
